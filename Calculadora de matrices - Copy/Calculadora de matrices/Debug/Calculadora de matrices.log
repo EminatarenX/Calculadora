@@ -1,0 +1,21 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,44): warning C4101: 'num23': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,65): warning C4101: 'num33': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,30): warning C4101: 'num21': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,23): warning C4101: 'num13': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,9): warning C4101: 'num11': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,58): warning C4101: 'num32': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,51): warning C4101: 'num31': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,37): warning C4101: 'num22': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(946,16): warning C4101: 'num12': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,44): warning C4101: 'num23': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,65): warning C4101: 'num33': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,30): warning C4101: 'num21': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,23): warning C4101: 'num13': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,9): warning C4101: 'num11': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,58): warning C4101: 'num32': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,51): warning C4101: 'num31': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,37): warning C4101: 'num22': variable local sin referencia
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Form1.h(981,16): warning C4101: 'num12': variable local sin referencia
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  Calculadora de matrices.vcxproj -> C:\Users\Emi\Desktop\Calculadora de matrices\Debug\Calculadora de matrices.exe

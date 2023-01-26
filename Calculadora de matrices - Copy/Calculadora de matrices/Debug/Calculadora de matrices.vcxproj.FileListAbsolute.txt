@@ -1,0 +1,3 @@
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Debug\Calculadora_de_matrices.Form1.resources
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Debug\Calculadora de matrices.vcxproj.GenerateResource.cache
+C:\Users\Emi\Desktop\Calculadora de matrices\Calculadora de matrices\Debug\Calculadora de matrices.vcxproj.AssemblyReference.cache
